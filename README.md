@@ -1,0 +1,2 @@
+# Full Stack E-Commerce + Dashboard & CMS(Content Management System)
+E- Commerce is the trading of goods and services on the internet. using this project we can host any type of E-commerce(B2B, C2C, B2C). Dashboard – It is designed to showcase sales report, we can modify website or CMS and we can maintain any number of business using single dashboard Content Management System – It is used to showcase the website and accessed by dashboard through API’s
