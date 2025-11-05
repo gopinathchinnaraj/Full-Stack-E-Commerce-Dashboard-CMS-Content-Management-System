@@ -107,5 +107,5 @@ A complete E-Commerce platform with integrated Admin Dashboard & CMS, capable of
 - Control promotional banners
 - Update pricing and inventory
 
-(images/admin-dashboard.png)
+![Admin Dashboard Interface](images/admin-dashboard.png)
 Figure 3: Admin Dashboard Interface
